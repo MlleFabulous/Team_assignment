@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Time On</string>
+    <string name="button_start">Start</string>
+    <string name="minutes">Time in minutes</string>
+    <string name="button_set">Set</string>
+
+
+
+</resources>
